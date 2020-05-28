@@ -6,6 +6,8 @@ options
 ```
 python socks5.py -h
 ```
+
+```
 Usage: start|stop|restart|status [options]
 Options:
   --port=<val>         Sets server port, default 1080
@@ -18,6 +20,7 @@ Options:
                          Create tow users:
                            --auth=admin:1234,root:1234
   -h                   Show Help
+```
 
 server start
 ```
